@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mail:Inbox xmlns:mail="http://viser.edu.rs/mail">
+    <mail:Poruka>
+        <mail:Pošiljalac>
+            <mail:Ime>Dejan Vasiljević</mail:Ime>
+            <mail:Adresa>dejannrt6117@gs.viser.edu.rs</mail:Adresa>
+        </mail:Pošiljalac>
+
+        <mail:Primalac>
+            <mail:Ime>Dragan Torbica</mail:Ime>
+            <mail:Adresa>draganjovetorbica@gmail.com</mail:Adresa>
+        </mail:Primalac>
+
+        <mail:CC>cvarkovdjordje@gmail.com</mail:CC>
+        <mail:BCC>boskic@gmail.com</mail:BCC>
+        <mail:Tekst>Ovo je treci zadatak trece vezbe iz IST-a</mail:Tekst>
+
+    </mail:Poruka>
+</mail:Inbox>
