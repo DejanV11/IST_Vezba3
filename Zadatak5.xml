@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NEWSPAPER SYSTEM "Zadatak5.dtd">
+<NEWSPAPER>
+    <ARTICLE AUTHOR="Steve">
+        <HEADLINE>The boys are back</HEADLINE>
+        <BYLINE>George Desmond</BYLINE>
+        <LEAD>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, maiores.</LEAD>
+        <BODY>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed dolorem et commodi labore, cupiditate in, a fugiat quas ex, enim officia reiciendis quibusdam est corporis! Eius veritatis et ducimus quas!</BODY>
+        <NOTES>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quos molestiae magnam beatae eum officiis.</NOTES>
+    </ARTICLE>
+
+    <ARTICLE AUTHOR="Simon">
+        <HEADLINE>Lorem ipsum dolor sit amet.</HEADLINE>
+        <BYLINE>John Bourne</BYLINE>
+        <LEAD>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</LEAD>
+        <BODY>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed dolorem et commodi labore, cupiditate in, a fugiat quas ex, enim officia reiciendis quibusdam est corporis! Eius veritatis et ducimus quas!</BODY>
+        <NOTES>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quos molestiae magnam beatae eum officiis.</NOTES>
+    </ARTICLE>
+
+    &NEWSPAPER;, &PUBLISHER;, &COPYRIGHT;
+</NEWSPAPER
