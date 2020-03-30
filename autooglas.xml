@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AutoOglas>
+    <Automobil>
+        <Proizvođač>Mercedez Benz</Proizvođač>
+        <Model tip="Limuzina">A 180</Model>
+        <Godište>2018</Godište>
+        
+        <Farba tip="Metalik">Bela</Farba>
+
+        <Zapremina jedinica="ccm">1461</Zapremina>
+        
+        <Transmisija tip="Automatski">6</Transmisija>
+
+        <Gorivo tng="ne">Dizel</Gorivo>
+        <Cena valuta="EUR">29900</Cena>
+        <Kontakt>065-4321234</Kontakt>
+    </Automobil>
+
+    <Automobil>
+        <Proizvođač>Ford</Proizvođač>
+        <Model tip="Hečbek">Fiesta</Model>
+        <Godište>2011</Godište>
+        
+        <Farba tip="Metalik">Bela</Farba>
+
+        <Zapremina jedinica="ccm">1399</Zapremina>
+        
+        <Transmisija tip="Manuelni">5</Transmisija>
+
+        <Gorivo tng="ne">Dizel</Gorivo>
+        <Cena valuta="EUR">29900</Cena>
+        <Kontakt>060-1234567</Kontakt>
+    </Automobil>
+</AutoOglas>
